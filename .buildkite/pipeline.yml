@@ -1,0 +1,3 @@
+steps:
+  - label: "Say hi! :wave:"
+    command: "true"
