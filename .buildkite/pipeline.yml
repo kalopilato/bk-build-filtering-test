@@ -1,3 +1,6 @@
 steps:
   - label: "Say hi! :wave:"
     command: "true"
+  - label: "Soft fail"
+    command: "false"
+    soft_fail: true
